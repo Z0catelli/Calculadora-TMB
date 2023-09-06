@@ -19,6 +19,8 @@
   <li>Calcula o consumo minimo de água diário com base no peso corporal.</li>
   <li>Calcula a quantidade de macronutrientes diários necessários. </li>
 </ul>
+<p>Ao executar a aplicação, será exibida uma mensagem no terminal apresentando o título "Calculadora TMB", em seguida iniciará o fluxo de perguntas para obter as informações necessárias para realizar os cálculos:</p>
+<img alt="" src="https://user-images.githubusercontent.com/101437257/266078938-053c0635-843f-4da1-830e-466c06817766.gif"> 
 
 <h2>📁 Acesso ao Projeto</h2>
 <p> <a href="https://github.com/Z0catelli/Calculadora-TMB/blob/main/calculadora-TMB.js">Acesse o código fonte do projeto</a> ou <a href="https://github.com/Z0catelli/Calculadora-TMB/archive/refs/heads/main.zip">baixe aqui</a>.</p>
@@ -48,3 +50,4 @@
     <li> Para rodar o projeto, execute o comando <code>node Calculadora-TMB.js</code>. </li>
   </ol>  
 </div>
+
