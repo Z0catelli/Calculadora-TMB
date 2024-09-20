@@ -4,10 +4,6 @@
 <img alt="" src="https://img.shields.io/badge/NodeJS-A1C935">
 </div>
 
-<div align="center">
-:construction: Projeto em construção :construction:
-</div>
-
 <div>
 <h2>🗒️ Descrição do Projeto</h2>
 <p>Calculadora de Taxa Metabólica Basal(TMB), consumo diário de água e macronutrientes. A aplicação foi desenvolvida utilizando JavaScript, utiliza a fórmula revisada de Harris-Benedict para o cálculo da taxa metabólica basal e varia de acordo com o sexo e nivel de atividade física.</p>
